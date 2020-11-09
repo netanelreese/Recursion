@@ -15,5 +15,10 @@ public class EatCake {
 		Cake cake = new Cake();
 		eatCake(cake);
 		System.out.println("MMM done eating, time to code!");
+		//hey guys :)\
+		// im gonna teach yall about cake
+		//mmmm!!
+		// say yes
+		//^^^^^^^^^
 	}
 }
